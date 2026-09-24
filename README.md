@@ -2,11 +2,6 @@
 
 A full-stack online auction platform built with Node.js, Express, TypeScript, and PostgreSQL (with Prisma ORM) — featuring secure authentication (including Google OAuth2), race-condition-safe bidding, and automated auction closing via a scheduled job (a cron job).
 
-— The server is fully hosted on my own VPS with its own domain name (HTTPS protocol), no BaaS used (no Supabase or Firebase).
-
-— You can test some features directly by opening this link in your browser:
-**🔗 Live Demo:** [https://amine-abbaci.xyz](https://amine-abbaci.xyz)
-
 ---
 
 ## 📋 Overview
@@ -165,4 +160,4 @@ auction-platform-ts/
 ## 👤 Author
 
 **Amine Abbaci**
-- GitHub: [@Nexozz627](#)
+- GitHub: [@AmineAbbaci](#)
